@@ -8,7 +8,7 @@
   
   <h3> Ofc Location : Ameerpet, Hyderbad </h3>
   <h1> Learn Here Lead anywhere </h1>
-  <h2> ashokit is best training institute in india </h2>
+  <h2 style="color:blue"> ashokit is best training institute in india </h2>
 
 </body>
 </html>
