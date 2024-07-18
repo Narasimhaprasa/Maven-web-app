@@ -11,5 +11,6 @@
   <h2 style="color:blue"> PrasadIT is best training institute in india </h2>
    <h3 style="color:green'>  India won the T20 world cup after 13 year</h3>
 <h1> Welcome to Bangalore</h1>
+<h2 style="color:red"> Welcome to new world </h2>
 </body>
 </html>
