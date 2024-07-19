@@ -13,5 +13,7 @@
 <h1> Welcome to Bangalore</h1>
 <h2 style="color:red"> Welcome to new world </h2>
 <h2 style="color:yellow"> Welcome to India </h2>
+<h2 style="color:blue"> Welcome to Hyderabad please explore the new city and adventures </h2>
+
 </body>
 </html>
