@@ -14,6 +14,7 @@
 <h2 style="color:red"> Welcome to new world </h2>
 <h2 style="color:yellow"> Welcome to India </h2>
 <h2 style="color:blue"> Welcome to Hyderabad please explore the new city and adventures </h2>
+<h2 style="color:Red"> Wish you Happy Guru Pouranami to All ...! </h2>
 
 </body>
 </html>
