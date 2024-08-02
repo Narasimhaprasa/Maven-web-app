@@ -20,6 +20,7 @@
 <h2 style="color:blue"> Welcome to Hyderabad please explore the new city and adventures </h2>
 <h2 style="color:Red"> Wish you Happy Guru Pouranami to All ...! </h2>
 <h2 style="color:green"> Wish you Happy Sunday my dear software Engineers ...! </h2>
+<h1 style="color:red"> WELCOME TO PARIS OLYMPICS  </h1>
 
 </body>
 </html>
